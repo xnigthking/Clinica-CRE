@@ -1,6 +1,6 @@
 # Clínica - CRE
 
-Projeto apresentado pelo professor **Hudson Neves** com o objetivo de criar um sistema de gerenciamento para uma clínica médica, desenvolvido em linguagem **C**. Este projeto abrange desde a concepção inicial até a implementação de funcionalidades essenciais para o bom funcionamento e organização de uma clínica.
+Projeto apresentado pelo professor **[Hudson Neves](https://github.com/HudsonNeves)** com o objetivo de criar um sistema de gerenciamento para uma clínica médica, desenvolvido em linguagem **C**. Este projeto abrange desde a concepção inicial até a implementação de funcionalidades essenciais para o bom funcionamento e organização de uma clínica.
 
 ---
 
