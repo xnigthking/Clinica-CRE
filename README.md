@@ -57,6 +57,7 @@ Projeto apresentado pelo professor **Hudson Neves** com o objetivo de criar um s
 ## 👤 Autor
 
 - [William Willam](https://github.com/William-Willam)
+- [guizera0701](https://github.com/guizera0701)
 
 ---
 
