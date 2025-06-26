@@ -44,12 +44,12 @@ Projeto apresentado pelo professor **[Hudson Neves](https://github.com/HudsonNev
 
 2. Compile o projeto utilizando um compilador C de sua preferência:
    ```bash
-   gcc main.c -o clinica
+   gcc clinica.c -o clinica.exe
    ```
 
 3. Execute o sistema:
    ```bash
-   ./clinica
+   ./clinica.exe
    ```
 
 ---
