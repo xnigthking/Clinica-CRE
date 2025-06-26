@@ -1,0 +1,2 @@
+Médico: Usuário medico1, Senha 123
+Usuário recepcao1, Senha 456
